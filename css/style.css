@@ -1,0 +1,73 @@
+*{margin: 0;}
+.container{
+	width: 80%;
+	margin: auto;
+	padding: 0px 76px;
+	height: initial;
+}
+.google-img{
+    width: 200px;
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+img{
+    max-width: 100%;
+    min-width: 100%;
+}
+.our_mission{
+    width: 386px;
+    margin-bottom: 50px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+}
+h2{
+    font-size: 29px;
+}
+.image2{
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 50px;
+}
+.goal_set{
+    width: 200px;
+    margin-bottom: 50px;
+    color: #3713f1;
+}
+.box h1{
+    text-align: center;
+    padding-top: 10px;
+    width: 50%;
+    margin: auto;
+    font-size: 50px;
+    padding-bottom: 10px;
+}
+.para{
+	margin-bottom: 50px;
+	color: #f70848;
+	font-size: 25px;
+}
+.para2{}
+.box{
+    width: 100%;
+    background: seagreen;
+    height: 100px;
+    padding-top: 50px;
+    padding-bottom: 74px;
+    color: white;
+}
+.seagreen{
+	color: seagreen;
+}
+.red{
+	color: red;
+}
+.green{
+	color: green;
+}
+.yellow{
+	color: #c5c534;;
+}
